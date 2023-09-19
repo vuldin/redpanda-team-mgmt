@@ -1,0 +1,4 @@
+admin_api_require_auth: true
+superusers:
+- admin
+
